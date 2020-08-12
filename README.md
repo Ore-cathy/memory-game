@@ -2,7 +2,7 @@
 
 This project was given to me as a final project in She Codes Africa mentor-ship program Cohort 2 as a final project to test my knowledge of JavaScript.This is a simple game built to test a users memory.
 
-![picture showing the game after completion](C:\Users\ADMIN\Desktop\mentor\memory game\1.PNG)
+![picture showing the game after completion](1.PNG)
 
 #### Challenge
 
